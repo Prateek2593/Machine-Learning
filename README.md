@@ -1,1 +1,1 @@
-Machine Learing Journey
+Machine Learning Journey
